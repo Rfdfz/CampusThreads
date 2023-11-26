@@ -1,11 +1,3 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-29 14:10:19
- * @LastEditTime: 2023-08-30 10:36:55
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\app\(root)\search\page.tsx
- */
 import { redirect } from "next/navigation";
 import { currentUser } from "@clerk/nextjs";
 

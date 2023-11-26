@@ -1,11 +1,3 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-30 09:24:59
- * @LastEditTime: 2023-08-30 09:50:41
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\components\shared\ProfileHeader.tsx
- */
 import Link from "next/link";
 import Image from "next/image";
 
